@@ -107,4 +107,4 @@ while True:
                 turn(10,-30)
                 andar(40)
                 turn(10,27)
-                andar(-15,500)
+                andar(-15,500000000000)
